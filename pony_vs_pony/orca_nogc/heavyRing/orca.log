@@ -1,0 +1,150 @@
+    "time_in_behaviour": 130517602,
+    "time_in_gc": 25560,
+    "time_in_send_scan": 29899160,
+    "time_in_recv_scan": 30531114
+size 4 :: iteration 1 :: 0.04 3292
+    "time_in_behaviour": 126412335,
+    "time_in_gc": 24558,
+    "time_in_send_scan": 29086056,
+    "time_in_recv_scan": 29491153
+size 4 :: iteration 2 :: 0.03 3240
+    "time_in_behaviour": 129433080,
+    "time_in_gc": 24589,
+    "time_in_send_scan": 29850095,
+    "time_in_recv_scan": 30059127
+size 4 :: iteration 3 :: 0.03 3276
+    "time_in_behaviour": 127382739,
+    "time_in_gc": 24376,
+    "time_in_send_scan": 29186215,
+    "time_in_recv_scan": 29734729
+size 4 :: iteration 4 :: 0.03 3228
+    "time_in_behaviour": 132928330,
+    "time_in_gc": 24990,
+    "time_in_send_scan": 30684441,
+    "time_in_recv_scan": 31098817
+size 4 :: iteration 5 :: 0.04 3236
+    "time_in_behaviour": 128255431,
+    "time_in_gc": 24093,
+    "time_in_send_scan": 29512742,
+    "time_in_recv_scan": 29934283
+size 4 :: iteration 6 :: 0.03 3224
+    "time_in_behaviour": 129719970,
+    "time_in_gc": 25603,
+    "time_in_send_scan": 29592838,
+    "time_in_recv_scan": 30479799
+size 4 :: iteration 7 :: 0.03 3276
+    "time_in_behaviour": 127010263,
+    "time_in_gc": 24271,
+    "time_in_send_scan": 29346538,
+    "time_in_recv_scan": 29577430
+size 4 :: iteration 8 :: 0.03 3224
+    "time_in_behaviour": 125323009,
+    "time_in_gc": 24563,
+    "time_in_send_scan": 28995554,
+    "time_in_recv_scan": 28944970
+size 4 :: iteration 9 :: 0.03 3264
+    "time_in_behaviour": 130059503,
+    "time_in_gc": 23933,
+    "time_in_send_scan": 29684417,
+    "time_in_recv_scan": 30654773
+size 4 :: iteration 10 :: 0.03 3236
+    "time_in_behaviour": 1817326646,
+    "time_in_gc": 46091,
+    "time_in_send_scan": 452292329,
+    "time_in_recv_scan": 451809759
+size 8 :: iteration 1 :: 0.40 4248
+    "time_in_behaviour": 1844730705,
+    "time_in_gc": 46900,
+    "time_in_send_scan": 457284597,
+    "time_in_recv_scan": 460462827
+size 8 :: iteration 2 :: 0.41 4212
+    "time_in_behaviour": 1820088357,
+    "time_in_gc": 47367,
+    "time_in_send_scan": 451819578,
+    "time_in_recv_scan": 453681603
+size 8 :: iteration 3 :: 0.40 4192
+    "time_in_behaviour": 1832467096,
+    "time_in_gc": 46918,
+    "time_in_send_scan": 454655789,
+    "time_in_recv_scan": 457021160
+size 8 :: iteration 4 :: 0.41 4184
+    "time_in_behaviour": 1830241831,
+    "time_in_gc": 46643,
+    "time_in_send_scan": 456198474,
+    "time_in_recv_scan": 454396772
+size 8 :: iteration 5 :: 0.41 4192
+    "time_in_behaviour": 1833362918,
+    "time_in_gc": 47384,
+    "time_in_send_scan": 454115021,
+    "time_in_recv_scan": 457992161
+size 8 :: iteration 6 :: 0.41 4216
+    "time_in_behaviour": 1847677321,
+    "time_in_gc": 46321,
+    "time_in_send_scan": 458175326,
+    "time_in_recv_scan": 461112132
+size 8 :: iteration 7 :: 0.41 4196
+    "time_in_behaviour": 1840451147,
+    "time_in_gc": 47588,
+    "time_in_send_scan": 455192715,
+    "time_in_recv_scan": 460422448
+size 8 :: iteration 8 :: 0.41 4212
+    "time_in_behaviour": 1810442290,
+    "time_in_gc": 47368,
+    "time_in_send_scan": 448911237,
+    "time_in_recv_scan": 451806669
+size 8 :: iteration 9 :: 0.40 4184
+    "time_in_behaviour": 1815330275,
+    "time_in_gc": 46190,
+    "time_in_send_scan": 451117554,
+    "time_in_recv_scan": 452022475
+size 8 :: iteration 10 :: 0.40 4180
+    "time_in_behaviour": 66500527365,
+    "time_in_gc": 4603189277,
+    "time_in_send_scan": 18675594514,
+    "time_in_recv_scan": 14566031758
+size 12 :: iteration 1 :: 24.40 57144
+    "time_in_behaviour": 66824907549,
+    "time_in_gc": 4665361536,
+    "time_in_send_scan": 18853392262,
+    "time_in_recv_scan": 14549672943
+size 12 :: iteration 2 :: 24.49 57148
+    "time_in_behaviour": 66664269584,
+    "time_in_gc": 4598181402,
+    "time_in_send_scan": 18742122173,
+    "time_in_recv_scan": 14580821197
+size 12 :: iteration 3 :: 24.42 57148
+    "time_in_behaviour": 66696758464,
+    "time_in_gc": 4648806158,
+    "time_in_send_scan": 18741741435,
+    "time_in_recv_scan": 14597996923
+size 12 :: iteration 4 :: 24.46 57136
+    "time_in_behaviour": 66499561548,
+    "time_in_gc": 4627262941,
+    "time_in_send_scan": 18666562414,
+    "time_in_recv_scan": 14574743906
+size 12 :: iteration 5 :: 24.40 57152
+    "time_in_behaviour": 66733884539,
+    "time_in_gc": 4659616970,
+    "time_in_send_scan": 18790785328,
+    "time_in_recv_scan": 14566478025
+size 12 :: iteration 6 :: 24.47 57156
+    "time_in_behaviour": 66619560331,
+    "time_in_gc": 4685316987,
+    "time_in_send_scan": 18742700799,
+    "time_in_recv_scan": 14557745502
+size 12 :: iteration 7 :: 24.48 57152
+    "time_in_behaviour": 66570746243,
+    "time_in_gc": 4618546503,
+    "time_in_send_scan": 18730038445,
+    "time_in_recv_scan": 14545969154
+size 12 :: iteration 8 :: 24.43 57160
+    "time_in_behaviour": 66413196685,
+    "time_in_gc": 4605275881,
+    "time_in_send_scan": 18700187709,
+    "time_in_recv_scan": 14497392221
+size 12 :: iteration 9 :: 24.39 57136
+    "time_in_behaviour": 66528089472,
+    "time_in_gc": 4590853352,
+    "time_in_send_scan": 18723400993,
+    "time_in_recv_scan": 14531843225
+size 12 :: iteration 10 :: 24.42 57152

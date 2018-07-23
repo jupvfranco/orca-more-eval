@@ -1,0 +1,300 @@
+    "time_in_behaviour": 1217516916
+    "time_in_gc": 451066165
+    "time_in_send_scan": 46988856
+    "time_in_recv_scan": 78329422
+size 10 :: iteration 1 :: 0.58 9084
+    "time_in_behaviour": 1224919541
+    "time_in_gc": 444340020
+    "time_in_send_scan": 47406259
+    "time_in_recv_scan": 77381856
+size 10 :: iteration 2 :: 0.58 9056
+    "time_in_behaviour": 1234086195
+    "time_in_gc": 446300773
+    "time_in_send_scan": 46987456
+    "time_in_recv_scan": 78965908
+size 10 :: iteration 3 :: 0.58 9048
+    "time_in_behaviour": 1218149701
+    "time_in_gc": 440769816
+    "time_in_send_scan": 45856923
+    "time_in_recv_scan": 76921911
+size 10 :: iteration 4 :: 0.57 9112
+    "time_in_behaviour": 1237139742
+    "time_in_gc": 440531652
+    "time_in_send_scan": 47342025
+    "time_in_recv_scan": 78479900
+size 10 :: iteration 5 :: 0.58 9088
+    "time_in_behaviour": 1214678678
+    "time_in_gc": 446396075
+    "time_in_send_scan": 46477320
+    "time_in_recv_scan": 75014863
+size 10 :: iteration 6 :: 0.58 9036
+    "time_in_behaviour": 1223102086
+    "time_in_gc": 438731000
+    "time_in_send_scan": 47233356
+    "time_in_recv_scan": 77007149
+size 10 :: iteration 7 :: 0.58 9108
+    "time_in_behaviour": 1223005646
+    "time_in_gc": 439671343
+    "time_in_send_scan": 46983448
+    "time_in_recv_scan": 77121137
+size 10 :: iteration 8 :: 0.57 9056
+    "time_in_behaviour": 1222938320
+    "time_in_gc": 441179961
+    "time_in_send_scan": 46975945
+    "time_in_recv_scan": 78267645
+size 10 :: iteration 9 :: 0.58 9080
+    "time_in_behaviour": 1218246482
+    "time_in_gc": 444625421
+    "time_in_send_scan": 46932760
+    "time_in_recv_scan": 76624436
+size 10 :: iteration 10 :: 0.58 9072
+    "time_in_behaviour": 2738954729
+    "time_in_gc": 1890486673
+    "time_in_send_scan": 92132685
+    "time_in_recv_scan": 161661861
+size 20 :: iteration 1 :: 1.68 15636
+    "time_in_behaviour": 2735857438
+    "time_in_gc": 1967648084
+    "time_in_send_scan": 91693024
+    "time_in_recv_scan": 161216600
+size 20 :: iteration 2 :: 1.71 15648
+    "time_in_behaviour": 2733072158
+    "time_in_gc": 1908995681
+    "time_in_send_scan": 92570363
+    "time_in_recv_scan": 159856906
+size 20 :: iteration 3 :: 1.69 15648
+    "time_in_behaviour": 2753258087
+    "time_in_gc": 1931223274
+    "time_in_send_scan": 91889331
+    "time_in_recv_scan": 162866406
+size 20 :: iteration 4 :: 1.71 15660
+    "time_in_behaviour": 2806014031
+    "time_in_gc": 1978792266
+    "time_in_send_scan": 92554316
+    "time_in_recv_scan": 164204568
+size 20 :: iteration 5 :: 1.73 15652
+    "time_in_behaviour": 2736536686
+    "time_in_gc": 1924138353
+    "time_in_send_scan": 91580519
+    "time_in_recv_scan": 164326830
+size 20 :: iteration 6 :: 1.69 15644
+    "time_in_behaviour": 2725185670
+    "time_in_gc": 1865105474
+    "time_in_send_scan": 90767497
+    "time_in_recv_scan": 160797743
+size 20 :: iteration 7 :: 1.67 15640
+    "time_in_behaviour": 2723084535
+    "time_in_gc": 1935769735
+    "time_in_send_scan": 92246204
+    "time_in_recv_scan": 160804263
+size 20 :: iteration 8 :: 1.69 15652
+    "time_in_behaviour": 2777341377
+    "time_in_gc": 1916012564
+    "time_in_send_scan": 90395274
+    "time_in_recv_scan": 161252190
+size 20 :: iteration 9 :: 1.70 15632
+    "time_in_behaviour": 2736469862
+    "time_in_gc": 1911932482
+    "time_in_send_scan": 92376840
+    "time_in_recv_scan": 159864625
+size 20 :: iteration 10 :: 1.69 15628
+    "time_in_behaviour": 4653931529
+    "time_in_gc": 3946843173
+    "time_in_send_scan": 130538174
+    "time_in_recv_scan": 276388086
+size 30 :: iteration 1 :: 3.13 22272
+    "time_in_behaviour": 4597097154
+    "time_in_gc": 4008617919
+    "time_in_send_scan": 130140988
+    "time_in_recv_scan": 299360009
+size 30 :: iteration 2 :: 3.14 22244
+    "time_in_behaviour": 4605807183
+    "time_in_gc": 4040824155
+    "time_in_send_scan": 129600353
+    "time_in_recv_scan": 255935858
+size 30 :: iteration 3 :: 3.17 22264
+    "time_in_behaviour": 4546395398
+    "time_in_gc": 4086680435
+    "time_in_send_scan": 131022345
+    "time_in_recv_scan": 266723291
+size 30 :: iteration 4 :: 3.17 22244
+    "time_in_behaviour": 4542467511
+    "time_in_gc": 4107230291
+    "time_in_send_scan": 129143044
+    "time_in_recv_scan": 265727404
+size 30 :: iteration 5 :: 3.18 22264
+    "time_in_behaviour": 4543922640
+    "time_in_gc": 4007895981
+    "time_in_send_scan": 131458953
+    "time_in_recv_scan": 259179449
+size 30 :: iteration 6 :: 3.13 22272
+    "time_in_behaviour": 4574643566
+    "time_in_gc": 4094237325
+    "time_in_send_scan": 130537068
+    "time_in_recv_scan": 262865542
+size 30 :: iteration 7 :: 3.19 22276
+    "time_in_behaviour": 4612986803
+    "time_in_gc": 4102663482
+    "time_in_send_scan": 129364386
+    "time_in_recv_scan": 260798650
+size 30 :: iteration 8 :: 3.19 22244
+    "time_in_behaviour": 4553684295
+    "time_in_gc": 3986618534
+    "time_in_send_scan": 131495232
+    "time_in_recv_scan": 266240876
+size 30 :: iteration 9 :: 3.13 22272
+    "time_in_behaviour": 4560311438
+    "time_in_gc": 4161498264
+    "time_in_send_scan": 129336531
+    "time_in_recv_scan": 261685638
+size 30 :: iteration 10 :: 3.21 22236
+    "time_in_behaviour": 7620826471
+    "time_in_gc": 6678773393
+    "time_in_send_scan": 445052924
+    "time_in_recv_scan": 537125787
+size 40 :: iteration 1 :: 5.08 28856
+    "time_in_behaviour": 7557077794
+    "time_in_gc": 6729057008
+    "time_in_send_scan": 448423945
+    "time_in_recv_scan": 533457976
+size 40 :: iteration 2 :: 5.11 28892
+    "time_in_behaviour": 7588272211
+    "time_in_gc": 6635077911
+    "time_in_send_scan": 445067928
+    "time_in_recv_scan": 535418830
+size 40 :: iteration 3 :: 5.07 28888
+    "time_in_behaviour": 7701298674
+    "time_in_gc": 6631749978
+    "time_in_send_scan": 450436301
+    "time_in_recv_scan": 560267645
+size 40 :: iteration 4 :: 5.11 28868
+    "time_in_behaviour": 7597365078
+    "time_in_gc": 6699526033
+    "time_in_send_scan": 446255330
+    "time_in_recv_scan": 531337835
+size 40 :: iteration 5 :: 5.10 28856
+    "time_in_behaviour": 7583944442
+    "time_in_gc": 6639914531
+    "time_in_send_scan": 446837794
+    "time_in_recv_scan": 535205983
+size 40 :: iteration 6 :: 5.07 28892
+    "time_in_behaviour": 7762677356
+    "time_in_gc": 6711348215
+    "time_in_send_scan": 445648970
+    "time_in_recv_scan": 561065950
+size 40 :: iteration 7 :: 5.14 28868
+    "time_in_behaviour": 7589715234
+    "time_in_gc": 6645438735
+    "time_in_send_scan": 447037509
+    "time_in_recv_scan": 542899691
+size 40 :: iteration 8 :: 5.07 28840
+    "time_in_behaviour": 7592489542
+    "time_in_gc": 6694079335
+    "time_in_send_scan": 446736984
+    "time_in_recv_scan": 524945380
+size 40 :: iteration 9 :: 5.09 28896
+    "time_in_behaviour": 7590696088
+    "time_in_gc": 6640756361
+    "time_in_send_scan": 446225389
+    "time_in_recv_scan": 545926982
+size 40 :: iteration 10 :: 5.08 28892
+    "time_in_behaviour": 10061084345
+    "time_in_gc": 9805386668
+    "time_in_send_scan": 521979898
+    "time_in_recv_scan": 627153693
+size 50 :: iteration 1 :: 7.12 35628
+    "time_in_behaviour": 9989386752
+    "time_in_gc": 9831363851
+    "time_in_send_scan": 521392323
+    "time_in_recv_scan": 624968555
+size 50 :: iteration 2 :: 7.10 35576
+    "time_in_behaviour": 9988723301
+    "time_in_gc": 9850474732
+    "time_in_send_scan": 520397249
+    "time_in_recv_scan": 626250145
+size 50 :: iteration 3 :: 7.13 35640
+    "time_in_behaviour": 10070858888
+    "time_in_gc": 9887489494
+    "time_in_send_scan": 520089460
+    "time_in_recv_scan": 623986458
+size 50 :: iteration 4 :: 7.18 35588
+    "time_in_behaviour": 10043947861
+    "time_in_gc": 9805267708
+    "time_in_send_scan": 523251972
+    "time_in_recv_scan": 630776782
+size 50 :: iteration 5 :: 7.12 35568
+    "time_in_behaviour": 10037277728
+    "time_in_gc": 9895113371
+    "time_in_send_scan": 521813927
+    "time_in_recv_scan": 617520698
+size 50 :: iteration 6 :: 7.21 35572
+    "time_in_behaviour": 10060685827
+    "time_in_gc": 9797554278
+    "time_in_send_scan": 526965546
+    "time_in_recv_scan": 636575996
+size 50 :: iteration 7 :: 7.13 35576
+    "time_in_behaviour": 10032784574
+    "time_in_gc": 9840255009
+    "time_in_send_scan": 522410322
+    "time_in_recv_scan": 617636375
+size 50 :: iteration 8 :: 7.15 35588
+    "time_in_behaviour": 10059696160
+    "time_in_gc": 9872301391
+    "time_in_send_scan": 522938344
+    "time_in_recv_scan": 634944770
+size 50 :: iteration 9 :: 7.17 35576
+    "time_in_behaviour": 10034972983
+    "time_in_gc": 9818236409
+    "time_in_send_scan": 520056059
+    "time_in_recv_scan": 626225365
+size 50 :: iteration 10 :: 7.14 35584
+    "time_in_behaviour": 12938204496
+    "time_in_gc": 12918283124
+    "time_in_send_scan": 629690429
+    "time_in_recv_scan": 791601007
+size 60 :: iteration 1 :: 9.29 42020
+    "time_in_behaviour": 12966048818
+    "time_in_gc": 12977122199
+    "time_in_send_scan": 627702858
+    "time_in_recv_scan": 801569626
+size 60 :: iteration 2 :: 9.36 42052
+    "time_in_behaviour": 12998988665
+    "time_in_gc": 13011108976
+    "time_in_send_scan": 626376104
+    "time_in_recv_scan": 798551171
+size 60 :: iteration 3 :: 9.39 42012
+    "time_in_behaviour": 12979375007
+    "time_in_gc": 12980561395
+    "time_in_send_scan": 629064832
+    "time_in_recv_scan": 775926976
+size 60 :: iteration 4 :: 9.34 42020
+    "time_in_behaviour": 12975938658
+    "time_in_gc": 12795757149
+    "time_in_send_scan": 627126074
+    "time_in_recv_scan": 775658255
+size 60 :: iteration 5 :: 9.22 42056
+    "time_in_behaviour": 13000723802
+    "time_in_gc": 13135510449
+    "time_in_send_scan": 627768360
+    "time_in_recv_scan": 781820381
+size 60 :: iteration 6 :: 9.41 42056
+    "time_in_behaviour": 13004566177
+    "time_in_gc": 12809361846
+    "time_in_send_scan": 628325019
+    "time_in_recv_scan": 772538187
+size 60 :: iteration 7 :: 9.24 42056
+    "time_in_behaviour": 12936440790
+    "time_in_gc": 12878328814
+    "time_in_send_scan": 627379828
+    "time_in_recv_scan": 777942893
+size 60 :: iteration 8 :: 9.29 42088
+    "time_in_behaviour": 12890477100
+    "time_in_gc": 12859260812
+    "time_in_send_scan": 628087464
+    "time_in_recv_scan": 779028066
+size 60 :: iteration 9 :: 9.32 42016
+    "time_in_behaviour": 12994448620
+    "time_in_gc": 12911058182
+    "time_in_send_scan": 628927770
+    "time_in_recv_scan": 783284823
+size 60 :: iteration 10 :: 9.32 42036
